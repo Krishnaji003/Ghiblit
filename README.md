@@ -147,4 +147,4 @@ For questions or support, please email [ghiblit.art@gmail.com](mailto:ghiblit.ar
 
 ---
 
-Built with ❤️ by [Pranesh Jahagirdar](https://www.linkedin.com/in/pranesh-jahagirdar/)
+Built with ❤️ by [Krishna Pawar](https://www.linkedin.com/in/krishna-pawar-a64a22104/)
